@@ -1,6 +1,6 @@
 # Projet 2 : Booki
 
-![Logo du site](https://github.com/CharonTom/my-website/blob/main/src/assets/img/booki.png)
+![Logo du site](https://github.com/CharonTom/my-website/blob/main/src/assets/img/booki.png){: width="300px" height="200px" }
 
 Ceci est le deuxième projet de ma formation OpenClassRooms.
 
