@@ -4,7 +4,7 @@ Ceci est le deuxième projet de ma formation OpenClassRooms.
 
 ### J'ai développé la page d'un site web en intégrant la maquette réalisée par un designer UI depuis l'outil de design Figma.
 
-<p> 
+<p align="center"> 
 <img src="https://github.com/CharonTom/my-website/blob/main/src/assets/img/booki.png" alt="booki" width="500"/>
 </p>
 
