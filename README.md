@@ -28,4 +28,6 @@ Le projet a été développé en HTML/CSS avec le préprocesseur SASS tout en ga
 
 ### Pour plus de détails
 
-N'hesitez pas à cloner ce repo
+N'hésitez pas à cloner ce repo.
+
+L'intégration de la maquette est hébergée ici : https://charontom.github.io/Booki/
