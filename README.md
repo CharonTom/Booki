@@ -4,7 +4,7 @@ Ceci est le deuxième projet de ma formation OpenClassRooms.
 
 ### J'ai développé la page d'un site web en intégrant la maquette réalisée par un designer UI depuis l'outil de design Figma.
 
-![Présentation sur pc et mobile](https://github.com/CharonTom/my-website/blob/main/src/assets/img/booki.png)
+<img src="https://github.com/CharonTom/my-website/blob/main/src/assets/img/booki.png" alt="booki" width="500"/>
 
 
 Booki est une application de réservation de logement qui permet aux utilisateurs de rechercher et de réserver des hébergements pour leurs voyages. Cette page d'intégration représente l'une des interfaces utilisateur de l'application.
